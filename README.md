@@ -211,3 +211,16 @@ Only committed changes are pushed to the remote repository. Stashed or reset cha
 ## Conclusion
 
 This project demonstrates a complete Git workflow, including initialization, tracking changes, branching, and handling errors. It reflects best practices for maintaining clean and manageable version control history.
+
+
+
+<img width="1470" height="956" alt="Screenshot 2026-05-02 at 5 52 50 PM" src="https://github.com/user-attachments/assets/64202c6a-54dc-4ae0-b8f9-e5858ba52e1f" />
+<img width="1470" height="956" alt="Screenshot 2026-05-02 at 5 54 47 PM" src="https://github.com/user-attachments/assets/a054649e-a44a-45c2-b316-12716e1329d1" />
+<img width="1470" height="956" alt="Screenshot 2026-05-02 at 5 54 49 PM" src="https://github.com/user-attachments/assets/1f95a32a-e35a-493c-b788-8865b48f76db" />
+<img width="1470" height="956" alt="Screenshot 2026-05-02 at 5 55 07 PM" src="https://github.com/user-attachments/assets/f97374da-f7aa-404f-a4f0-7fd3cd189848" />
+<img width="1470" height="956" alt="Screenshot 2026-05-02 at 5 56 01 PM" src="https://github.com/user-attachments/assets/aa8b4df8-8467-4bfe-abbf-15f42df1bb46" />
+<img width="1470" height="956" alt="Screenshot 2026-05-02 at 5 56 07 PM" src="https://github.com/user-attachments/assets/94de607a-003b-46b1-a31f-b26bb2e01acb" />
+<img width="1470" height="956" alt="Screenshot 2026-05-02 at 5 57 48 PM" src="https://github.com/user-attachments/assets/784ce758-8591-46b9-9183-8079fe86b919" />
+<img width="1470" height="956" alt="Screenshot 2026-05-02 at 5 58 02 PM" src="https://github.com/user-attachments/assets/6649ab8b-c3e3-497e-b9a9-c7c1564e0f8c" />
+<img width="1470" height="956" alt="Screenshot 2026-05-02 at 5 59 23 PM" src="https://github.com/user-attachments/assets/e936ca61-99c8-42f8-bde0-a690bf5d9180" />
+
